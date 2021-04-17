@@ -1,1 +1,1 @@
-# APT27-NewVar-aka-lucky
+# Detector and Removal
