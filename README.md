@@ -1,9 +1,9 @@
 # Detector and Removal
-This a generic detector and removal for malicious agents or access.
-For each attack a new instance of class Infection could be added.
+This is a generic detector and removal for malicious agents or not authorized accesses.
+For each attack a new instance of "class Infection" could be added to the source file.
 
 # Current Malicious modules
-- APT27 aka Lucky
+- APT27 aka Lucky (samples: https://github.com/graph-inc/Malicious-IOC/tree/main/APT27-aka-Lucky)
 
 
 # Compile Notes
